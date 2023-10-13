@@ -1,0 +1,1 @@
+{"uuid":"2611e742-73ae-4fc0-8177-729199b7d934","name":"testproject","children":["d0274df4-012c-4cb1-bbae-aab25b2c7b37"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679755011010,"stop":1679755011995}],"start":1679755002471,"stop":1679755011997}
